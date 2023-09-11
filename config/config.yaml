@@ -1,0 +1,7 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_url: https://github.com/JK1Real/data-images-Chicken-fecal-disease/raw/main/Chicken-fecal-images.zip
+  local_data_files: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
